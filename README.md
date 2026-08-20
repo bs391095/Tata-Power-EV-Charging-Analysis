@@ -133,8 +133,7 @@ I would like to extend this project by:
 
 | File                                    | Description                                          |
 | --------------------------------------- | ---------------------------------------------------- |
-| `Tata Power EV Charging Dashboard.xlsx` | Excel workbook containing the analysis and dashboard |
-| `Tata Power EV Charging Dashboard.pdf`  | Dashboard presentation and project insights          |
+| `Milestone_project_Bhoopendra.pdf`      | Dashboard presentation and project insights              |
 | `Dashboard Preview.png`                 | Preview of the final dashboard                       |
 
 ## 👤 About Me
